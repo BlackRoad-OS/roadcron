@@ -1,0 +1,5 @@
+[project]
+name = "roadcron"
+version = "0.1.0"
+description = "roadcron - BlackRoad OS"
+requires-python = ">=3.10"
